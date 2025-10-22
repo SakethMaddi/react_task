@@ -2,7 +2,7 @@ import './header.css'
 
 
 function Header(){
-    return <Header>
+    return <header>
         <nav>
             <span className="freeze">Freeze</span>
             <span>Home</span>
@@ -10,6 +10,6 @@ function Header(){
             <span>Blog</span>
             <span>COntact</span>
         </nav>
-    </Header>
+    </header>
 }
 export default Header;

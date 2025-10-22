@@ -1,0 +1,12 @@
+.cards{
+    display: flex;
+    border: 1px solid;
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    border-radius: 5px;
+}
+.parent{
+    display: flex;
+    justify-content: space-around;
+}

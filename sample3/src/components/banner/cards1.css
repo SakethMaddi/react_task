@@ -1,0 +1,15 @@
+.cards1{
+    display: flex;
+    border: 0px solid;
+    align-items: center;
+    padding-bottom: 50px;
+}
+.parent1{
+    display: flex;
+    border: 1px solid;
+    border-radius: 5px;
+    align-self:center;
+    justify-content: space-around;
+    gap: 10px;
+    
+}
