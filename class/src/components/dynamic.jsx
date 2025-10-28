@@ -67,7 +67,7 @@ export class RandomNum extends Component{
     }
     render(){
         return <div>
-            <p>Count:{this.state.number}</p>
+            <p>Number:{this.state.number}</p>
             <button onClick={this.randomnum}>Random</button>
         </div>
     }

@@ -4,15 +4,17 @@ import { CounterApp } from "./components/dynamic";
 import { RandomNum } from "./components/dynamic";
 import { TextMes } from "./components/dynamic";
 
+
+
 class App extends Component{
   render(){ 
-    return <div>
+    return <div >
       {/* <h3>Hello</h3> */}
       {/* < Message /> */}
-      <CounterApp/>
+      /* <CounterApp/>
       < RandomNum/>
-      <TextMes/>
-  </div>
+      <TextMes/> */
+    </div>
   }
 }
 export default App
